@@ -21,9 +21,8 @@ To Solve Travelling Sales man Problem for the following graph.
 /*
 To implement the program for TSP.
 
-
-Developed by: haritha shree
-Register Number:  212222230046
+Developed by: RAGUL RAAJAN T
+Register Number: 212223100043
 */
 from sys import maxsize
 from itertools import permutations
